@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\bin\Debug\netcoreapp2.1\csharpTuples.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\bin\Debug\netcoreapp2.1\csharpTuples.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\bin\Debug\netcoreapp2.1\csharpTuples.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\bin\Debug\netcoreapp2.1\csharpTuples.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\bin\Debug\netcoreapp2.1\csharpTuples.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\obj\Debug\netcoreapp2.1\csharpTuples.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\obj\Debug\netcoreapp2.1\csharpTuples.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\obj\Debug\netcoreapp2.1\csharpTuples.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\obj\Debug\netcoreapp2.1\csharpTuples.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\obj\Debug\netcoreapp2.1\csharpTuples.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\csharpTuples\obj\Debug\netcoreapp2.1\csharpTuples.pdb
